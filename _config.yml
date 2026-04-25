@@ -1,0 +1,17 @@
+title: Pinote
+description: The pinned note for your Lock Screen
+baseurl: "/pinote-pages"
+url: "https://okminlee.github.io"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-redirect-from
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
