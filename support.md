@@ -7,7 +7,7 @@ permalink: /support
 
 Need help with Pinote?
 
-- **Email:** support@pinote.app *(set up after launch — contact via GitHub Issues meanwhile)*
+- **Email:** leeokmin@gmail.com
 - **Bug report or feature request:** [GitHub Issues](https://github.com/OkminLee/pinote-pages/issues)
 - **Response time:** 48 hours typical
 

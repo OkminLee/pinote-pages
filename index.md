@@ -26,7 +26,7 @@ Write a note once. It arrives on every Apple device through iCloud. Pin it as a 
 
 ## Download
 
-[Download on the App Store](https://apps.apple.com/app/pinote-pages/id-PLACEHOLDER) (link goes live on launch day)
+[Download on the App Store](https://apps.apple.com/app/pinote/id6762083728)
 
 ## Help & Privacy
 
