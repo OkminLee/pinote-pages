@@ -7,7 +7,7 @@ permalink: /support/ko
 
 도움이 필요하신가요?
 
-- **이메일:** leeokmin@gmail.com
+- **이메일:** pinote@okm.studio
 - **버그 리포트 또는 기능 요청:** [GitHub Issues](https://github.com/OkminLee/pinote-pages/issues)
 - **응답 시간:** 보통 48시간
 
